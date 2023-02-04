@@ -2,7 +2,7 @@
 In progress...
 
 FighterRunner 3D will be a game where you can feel the improvement of your character and show it to your enemies. 
-While collecting Elden Gloves, your character will become ferocious and beat its enemies with one punch! At the end of every level you will face stronger enemies. 
+While collecting "Elden Gloves", your character will become ferocious and beat its enemies with one punch! At the end of every level you will face stronger enemies. 
 Every time you beat your enemies you will obtain their power too! 
 
 
