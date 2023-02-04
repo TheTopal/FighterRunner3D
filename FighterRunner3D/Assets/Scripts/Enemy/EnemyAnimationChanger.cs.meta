@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7f7e7c12e40cef848b802ad141351de1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPunchAnim: {fileID: -203655887218126122, guid: d94178e100044b84bbbb0103cdf870df, type: 3}
+  - playerCombat: {fileID: 5063636721141128229, guid: f42d82dcc6fd04140a1533348a00265b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

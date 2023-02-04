@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa24c262d9762744aa5aad4793bb6f1, type: 3}
+  m_Name: ap_Enemy
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 32134e73c06dcf84785f2fc21ee488c7, type: 2}
+  - {fileID: 2100000, guid: a149c088dd688b240954f5c79acf5716, type: 2}
+  - {fileID: 2100000, guid: 1fb226a0d00597b4b97eabd319d54645, type: 2}
+  - {fileID: 2100000, guid: 3c3ab4e55f2f6534187662a5ab20dd3d, type: 2}
+  - {fileID: 2100000, guid: c73890e32b479be469c51fbb430b1041, type: 2}
+  - {fileID: 2100000, guid: 018fc97e6fb726648a15b3956fa44d88, type: 2}
+  - {fileID: 2100000, guid: aa50b231dfc535046b3a94bb30ecd68a, type: 2}
+  sizes:
+  - {x: 1, y: 1, z: 1}
+  - {x: 1.02, y: 1.02, z: 1.02}
+  - {x: 1.04, y: 1.04, z: 1.04}
+  - {x: 1.06, y: 1.06, z: 1.06}
+  - {x: 1.08, y: 1.08, z: 1.08}
+  - {x: 1.1, y: 1.1, z: 1.1}
+  - {x: 1.12, y: 1.12, z: 1.12}
