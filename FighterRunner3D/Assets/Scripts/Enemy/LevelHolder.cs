@@ -13,6 +13,7 @@ namespace FR.Enemy
         {
             enemyLevel = stats.level;    
         }
+        
 
 
     }
